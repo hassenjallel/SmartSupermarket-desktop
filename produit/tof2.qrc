@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/tof2">
+        <file>38986426-changer-d-icône-bouton-internet-sur-fond-blanc-.png</file>
+        <file>delete-clipart-1.png</file>
+        <file>download1.png</file>
+        <file>affichage.png</file>
+        <file>download12.png</file>
+        <file>icone-recherche-png.png</file>
+        <file>notification-circle-blue-512.png</file>
+        <file>images.png</file>
+        <file>inventaires-produi1t.png</file>
+    </qresource>
+</RCC>

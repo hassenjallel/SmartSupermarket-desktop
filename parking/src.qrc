@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/71tryKPu65L._SY450_.jpg</file>
+        <file>img/abort-146072_960_720.png</file>
+        <file>img/button-304224_960_720.png</file>
+        <file>img/cancel2561.png</file>
+        <file>img/edit-validated_40458.png</file>
+        <file>img/EP17_DM_001_Onlineticket_Artikelbild_Parken.jpg</file>
+        <file>img/oie_transparent.png</file>
+        <file>img/quitter-hi1.png</file>
+        <file>img/slider-bienvenue.png</file>
+        <file>img/show-non-hidden-views.png</file>
+        <file>img/2531390_image_1.jpg</file>
+        <file>img/images.png</file>
+        <file>img/no-photo-vehicle.jpg</file>
+        <file>img/menu_btn_off.png</file>
+    </qresource>
+</RCC>

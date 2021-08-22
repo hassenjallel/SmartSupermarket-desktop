@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/tof">
+        <file>magnifier-glass-10-713820.png</file>
+        <file>monitor.png</file>
+    </qresource>
+</RCC>

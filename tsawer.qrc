@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>219-512.png</file>
+        <file>2000px-Signin_font_awesome.svg.png</file>
+        <file>icons_password-512.png</file>
+        <file>img_487255.png</file>
+        <file>magnifier-glass-10-713820.png</file>
+        <file>media-pict-camera.png</file>
+        <file>monitor.png</file>
+        <file>police_officer_glyph_convert-512.png</file>
+        <file>Safety_Tips.png</file>
+        <file>transit-27-512.png</file>
+        <file>yumminky-pc-43-512.png</file>
+        <file>47501.svg</file>
+        <file>54528.svg</file>
+        <file>54908.svg</file>
+        <file>61449.svg</file>
+        <file>supermarket-store-interior-with-customers-blurred-background_v_pvxpehe__F0000.png</file>
+    </qresource>
+</RCC>
